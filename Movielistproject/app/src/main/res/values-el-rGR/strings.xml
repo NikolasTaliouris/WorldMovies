@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movielistproject</string>
+    <string name="title">Τίτλος</string>
+    <string name="director">Σκηνοθέτης</string>
+    <string name="my_movies">Λίστα Ταινιών</string>
+    <string name="add">+</string>
+    <string name="no_movie">Δεν υπαρχει το ειδος της ταινιας</string>
+    <string name="save">Δημιουργία ταινίας</string>
+    <string name="info">%s,κυκλοφόρησε στις %s</string>
+    <string name="dor">Ημερομηνία κυκλοφορίας της τανίας</string>
+    <string name="unknown_type">Δεν υπάρχει το είδος της ταινίας</string>
+    <string name="title_error">Δεν υπάρχει τίτλος της ταίνιας</string>
+    <string name="director_error">Δεν υπάρχει το όνομα του σκηνοθέτη</string>
+    <string name="dor_error">Παρακαλώ,εισάγετε ημερομηνία κυκλοφορίας σε μορφή dd-MM-YYYY</string>
+    <string-array name="types">
+        <item>Επιλέξτε είδος</item>
+        <item>Ρομαντική</item>
+        <item>Δράσης</item>
+        <item>Θρίλλερ</item>
+        <item>Επιστημονικής Φαντασίας</item>
+    </string-array>
+    <string name="imbd">IMBD</string>
+</resources>

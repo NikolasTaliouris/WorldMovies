@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Movielistproject</string>
+    <string name="title">Title</string>
+    <string name="director">Director</string>
+    <string name="dor">Release date of the movie (DD-MM-YYYY)</string>
+    <string name="my_movies">Movie List</string>
+    <string name="add">+</string>
+    <string name="no_movie">Add your first movie</string>
+    <string name="save">Creation of the Movie</string>
+    <string name="info">%s,released at %s</string>
+    <string name="unknown_type">There is no type of movie</string>
+    <string name="title_error">The title of the movie cannot be empty</string>
+    <string name="director_error">Director\'s name cannot be empty</string>
+    <string name="dor_error">Please enter the release date of the form dd-MM-YYYY</string>
+    <string-array name="types">
+        <item>Select Type</item>
+        <item>Romance</item>
+        <item>Action</item>
+        <item>Horror</item>
+        <item>Sci-fi</item>
+    </string-array>
+    <string name="imbd">IMBD</string>
+</resources>
